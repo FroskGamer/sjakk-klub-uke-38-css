@@ -1,0 +1,17 @@
+.main_container {
+    display: flex;
+    justify-content: center;
+
+}
+.main_container #main_header{
+    height:168px; 
+    width: 35%;
+    background-color: brown;
+    background-image:url(chess_nav.jpg);
+
+}
+#main_header #img_nav{
+    width: 100%;
+    height: auto;
+    
+}
